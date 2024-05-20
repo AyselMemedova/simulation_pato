@@ -1,0 +1,60 @@
+.blog_all{
+    height: 600px;
+    margin-top: 50px;
+}
+
+.blog_text{
+    text-align: center;
+    h3{
+        font-family: Courgette;
+        font-size: 30px;
+        line-height: 1.2;
+        color: #d61c22;
+    }
+
+    h4{
+        font-family: Poppins;
+        font-weight: 700;
+        font-size: 50px;
+        line-height: 1.2;
+        color: #222222;
+        text-transform: uppercase;
+        letter-spacing: 6px;
+        margin-bottom: 22px;
+    }
+}
+
+.blog_card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.cardlar{
+    /* margin-left: 40px; */
+    h4{
+        font-family: Poppins;
+        font-weight: 500;
+        font-size: 22px;
+        color: #333333;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+    }
+    p{
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 1.7;
+        color: #666666;
+    
+        
+    }
+    }
+
+.cardlar img{
+    width: 400px;
+    height: 220px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}

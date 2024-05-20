@@ -1,0 +1,44 @@
+/* .slide_text{
+  position: absolute;
+} */
+
+/* .section_img{
+    position: relative;
+} */
+
+.frst_slide{
+  position: relative;
+}
+
+.slide_text{
+  position: absolute;
+  color: white;
+  left: 30%;
+  top: 40%;
+  transform: translate(-50,-50);
+  text-align: center;
+h3{
+  font-family: Courgette;
+    font-size: 60px;
+    line-height: 1.1;
+    color: white;
+}
+  h2{
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 90px;
+    line-height: 1.1;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+  }
+}
+#slider_btn{
+  text-align: center;
+  background-color: white;
+  color: red;
+  border-radius: 5px;
+  width: 130px;
+  height: 40px;
+}

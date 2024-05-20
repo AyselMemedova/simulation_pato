@@ -1,0 +1,45 @@
+.customer_all{
+    height: 500px;
+    padding-top: 115px;
+    text-align: center;
+}
+.customer_text{
+    h4{
+        font-family: Courgette;
+    font-size: 30px;
+    line-height: 1.2;
+    color: #d61c22;
+    }
+
+    h3{
+        font-family: Poppins;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 1.2;
+    color: #222222;
+    text-transform: uppercase;
+    letter-spacing: 11px;
+    }
+}
+.cuctomer_img img{
+    border-radius: 50%;
+    overflow: hidden;
+    border: 4px solid #ec1d25;
+    width: 118px;
+    height: 118px;
+}
+
+.customer_text2 {
+    p{
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 18px;
+    color: #666666;
+    line-height: 1.7;
+}
+
+}
+
+.customer_text2_ulduz{
+    color: #ec1d25;
+}
